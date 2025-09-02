@@ -18,7 +18,7 @@
 ## Fase 1 - Modelagem (Diagramas UML)
 
 - **Diagrama de Caso de Uso**  
-![Casos de Uso](fase1/diagrama_casos_uso.png)
+![Casos de Uso](fase1/diagrama_caso_uso.png)
 
 - **Diagrama de Classes**  
 ![Classes](fase1/diagrama_classes.png)
