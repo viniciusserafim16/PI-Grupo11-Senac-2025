@@ -18,10 +18,10 @@
 ## Fase 1 - Modelagem (Diagramas UML)
 
 - **Diagrama de Caso de Uso**  
-![Casos de Uso](fase1/diagrama_casos_uso.png)
+![Casos de Uso](fase1/diagrama_caso_uso.png)
 
 - **Diagrama de Classes**  
-![Classes](fase1/diagrama_classes.png)
+![Classes](fase1/diagrama_classe_mer.png)
 
  Documento completo: [PIGrupo11.docx](fase1/PIGrupo11.docx)
 
